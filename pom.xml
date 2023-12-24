@@ -8,11 +8,11 @@
 		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>JPA_One_To_Many</groupId>
-	<artifactId>CrudOneToMany</artifactId>
+	<groupId>WooriBank_One_To_Many</groupId>
+	<artifactId>Test_WooriBank_One_To_Many</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CrudOneToMany</name>
-	<description>Test About JPA 1 to many</description>
+	<name>Test_WooriBank_One_To_Many</name>
+	<description>Practice about WooriBank_One_To_Many</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
